@@ -8,12 +8,25 @@ body{
 	padding: 0;
 }
 #Container{
-	border: solid 1px  #ddd;
 	text-align: left;
+	border: solid 1px  gray;
 	width: 70%;
-	padding: 0;
 	margin: 0 auto;
 }
 #Container-titulo{
 	font-size: 30px; 
+}
+#cabecera{
+	background-color: rebeccapurple;
+	color: white;
+	padding: 0.5rem;
+	font-weight: bold;
+	box-shadow: 0 2px 20px 0px #000;
+}
+#Post{
+	padding: 1em;
+}
+#logo{
+	width: 20px;
+	vertical-align: middle;
 }
